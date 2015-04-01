@@ -1,0 +1,7 @@
+<craft>
+    <craft name="spinner" src="./index.xml"/>
+    <row>        
+        <spinner type="1"></spinner>
+    </row>
+	 
+</craft>
